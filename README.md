@@ -24,6 +24,7 @@
 ##  :man_technologist:  About Me:
 
 ### Everyday
+- Refactor client's [public facing website](dactces.org) removing Joomla CMS, and bring it under VueJS technologies. Hosted through Azure DevOps.
 - [SCORM 1.2 and 2004](https://adlnet.gov/projects/scorm/) Programmer/Validator ensuring distance learning courses can be run on our client's Learning Management Systems (LMS).
 - [xAPI](https://adlnet.gov/projects/xapi/) / [CMI5](https://adlnet.gov/projects/cmi5-specification/): Leading scientist pushing the next evolution of learning technologies (training and development) for our customers.
 
@@ -34,9 +35,8 @@
 Both development efforts done in as much of a Agile methodology as possible.
 
 ### Backlog of Stretch Assignments
-- 'Automated' [helpdesk](https://github.com/anthony-jackman/panacea) to assist with application operations.
+- [Panacea](https://github.com/anthony-jackman/panacea) Helpdesk front end to assist with application operations.
 - [Alternate Delivery](https://github.com/anthony-jackman/hephaestus) applet designed to assist with outside the normal courseware distrobution methods to students.
-- [Cronos](): Joomla 4 module that makes html5 table data displays easier for instructor led courses.
 - [Muses](): Front-end for tracking distance learning courseware data for PMs and IDs.
 - [Hades](): Front-end for possible inclusion to star trek game that will categorize weapons used in the game.
 - [Q](): Front-end to possible game inclusion for transportation/storage of futuristic weapons.
